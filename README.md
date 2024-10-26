@@ -1,3 +1,6 @@
+# Fork Details
+- added [scnvim](https://github.com/davidgranstrom/scnvim): SuperCollider plugin + bindings
+
 # NvPlugged: NVim Distribution
 
 Janus served me well for many years, but it's so damn slow today.
@@ -12,9 +15,9 @@ To use this distro, you must install latest [Neovim](https://github.com/neovim/n
 which is the secret weapon to enable all the async non-blocking operations
 that makes this distro super fast.
 
-## Copy/Paste easy install (OS X)
+## Copy/Paste easy install (OS X/Linux)
 
 ```sh
-git clone https://github.com/brodock/nvplugged.git ~/.config/nvim
+git clone https://github.com/flyingoctopus/nvplugged.git ~/.config/nvim
 nvim +PlugInstall +qall
 ```

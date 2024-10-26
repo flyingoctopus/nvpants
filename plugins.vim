@@ -36,6 +36,7 @@ Plug 'rhysd/reply.vim', { 'on': ['Repl', 'ReplAuto'] }
 Plug 'brodock/vim-vroom', { 'branch': 'neovim-terminal' }
 Plug 'thoughtbot/vim-rspec'
 Plug 'darfink/vim-plist'
+Plug 'davidgranstrom/scnvim'
 
 " Snippets
 Plug 'rafamadriz/friendly-snippets'

@@ -39,6 +39,7 @@ endif
 " ~/.config/nvim/custom
 " ~/.config/nvim/custom/plugins
 "
+exe 'source ' . s:path . '/custom/plugins/scnvim.vim'
 
 exe 'source ' . s:path . '/custom/plugins/dashboard-nvim.vim'
 exe 'source ' . s:path . '/custom/plugins/neo-tree.vim'
@@ -50,4 +51,3 @@ exe 'source ' . s:path . '/custom/plugins/nvim-snippets.vim'
 exe 'source ' . s:path . '/custom/plugins/nvim-cmp.vim'
 exe 'source ' . s:path . '/custom/strip-whitespaces.vim'
 exe 'source ' . s:path . '/custom/color-columns.vim'
-
