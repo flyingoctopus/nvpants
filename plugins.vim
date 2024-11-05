@@ -53,10 +53,13 @@ Plug 'vim-airline/vim-airline-themes'
 
 " Vincent
 " Plug 'neovim/nvim-lspconfig' " cool. brb when I'm ready
-Plug 'github/copilot.vim' " sigh
+" Plug 'github/copilot.vim' " sigh
 Plug 'rbong/vim-flog'
 Plug 'sindrets/diffview.nvim'
 Plug 'https://gitlab.com/itaranto/preview.nvim.git'
+Plug 'rbong/vim-flog'
+Plug 'sindrets/diffview.nvim'
+Plug 'itaranto/preview.nvim'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'huggingface/llm.nvim'
 
