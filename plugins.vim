@@ -36,7 +36,7 @@ Plug 'rhysd/reply.vim', { 'on': ['Repl', 'ReplAuto'] }
 Plug 'brodock/vim-vroom', { 'branch': 'neovim-terminal' }
 Plug 'thoughtbot/vim-rspec'
 Plug 'darfink/vim-plist'
-Plug 'davidgranstrom/scnvim'
+Plug 'davidgranstrom/scnvim', { 'for': 'scd' }
 
 " Snippets
 Plug 'rafamadriz/friendly-snippets'
@@ -50,6 +50,14 @@ Plug 'hrsh7th/nvim-cmp'
 " Themes
 Plug 'morhetz/gruvbox'
 Plug 'vim-airline/vim-airline-themes'
+
+" Vincent
+" Plug 'neovim/nvim-lspconfig' " cool. brb when I'm ready
+Plug 'rbong/vim-flog'
+Plug 'sindrets/diffview.nvim'
+Plug 'itaranto/preview.nvim'
+Plug 'nvim-lua/plenary.nvim'
+Plug 'huggingface/llm.nvim'
 
 " Dev Icons (must be the last one)
 Plug 'ryanoasis/vim-devicons'
