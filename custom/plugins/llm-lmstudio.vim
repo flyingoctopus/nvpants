@@ -14,6 +14,7 @@ require("llm").setup({
     -- },
     options = {
         model = "starcoder2-15b-instruct-v0.1", -- Replace with an actual model ID if necessary
+        -- model = "deepseek-coder-v2-lite-instruct-mlx", -- Replace with an actual model ID if necessary
         max_tokens = 100,
         temperature = 0.7, -- Adjust based on your preference
     },
