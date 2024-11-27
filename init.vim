@@ -58,6 +58,8 @@ exe 'source ' . s:path . '/custom/plugins/scnvim.vim'
 " I should make a toggle to switch between the two above
 
 exe 'source ' . s:path . '/custom/plugins/scnvim.vim'
-exe 'source ' . s:path . '/custom/plugins/llm-ollama.vim'
+" exe 'source ' . s:path . '/custom/plugins/llm-ollama.vim'
+" exe 'source ' . s:path . '/custom/plugins/llm-huggingface.vim'
+" exe 'source ' . s:path . '/custom/plugins/llm-ollama.vim'
 " exe 'source ' . s:path . '/custom/plugins/llm-lmstudio.vim'
 " I should make a toggle to switch between the two above
