@@ -1,7 +1,7 @@
 " file: llm-huggingface.vim
 lua << EOF
 require("llm").setup({
-  api_token = "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",
+  api_token = "whoops",
   model = "bigcode/starcoder2-15b", -- the model ID, behavior depends on backend
   backend = "huggingface", -- backend ID, "huggingface" | "ollama" | "openai" | "tgi"
   url = "https://api-inference.huggingface.co/models/", -- the http url of the backend
