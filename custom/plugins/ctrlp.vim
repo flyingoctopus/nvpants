@@ -1,7 +1,7 @@
 if janus#is_plugin_enabled("ctrlp")
   let g:ctrlp_map = ''
   let g:ctrlp_custom_ignore = {
-    \ 'dir':  '\v[\/]\.(git|hg|svn)$|bower_components|node_modules',
+    \ 'dir':  '\v[\/]\.(git|hg|svn)$|bower_components|node_modules|\.build',
     \ 'file': '\.pyc$\|\.pyo$\|\.rbc$|\.rbo$\|\.class$\|\.o$\|\~$\',
     \ }
 endif
