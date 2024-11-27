@@ -25,7 +25,7 @@ Plug 'tpope/vim-eunuch'
 Plug 'rking/ag.vim'
 Plug 'benekastah/neomake'
 Plug 'scrooloose/syntastic'
-" Plug 'ervandew/supertab' " conflicts w llm.nvim
+Plug 'ervandew/supertab' " conflicts w llm.nvim
 
 " Languages support
 Plug 'tpope/vim-haml', { 'for': 'haml' }
