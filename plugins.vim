@@ -58,7 +58,7 @@ Plug 'rbong/vim-flog'
 Plug 'sindrets/diffview.nvim'
 Plug 'itaranto/preview.nvim'
 Plug 'nvim-lua/plenary.nvim'
-" Plug 'huggingface/llm.nvim'
+Plug 'huggingface/llm.nvim'
 
 " Dev Icons (must be the last one)
 Plug 'ryanoasis/vim-devicons'
