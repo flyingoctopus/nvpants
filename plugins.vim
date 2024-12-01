@@ -59,7 +59,7 @@ Plug 'sindrets/diffview.nvim'
 Plug 'https://gitlab.com/itaranto/preview.nvim.git'
 Plug 'rbong/vim-flog'
 Plug 'sindrets/diffview.nvim'
-Plug 'itaranto/preview.nvim'
+Plug 'https://gitlab.com/itaranto/preview.nvim.git'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'huggingface/llm.nvim'
 
