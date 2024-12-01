@@ -50,8 +50,9 @@ nmap <silent> <leader>fc <ESC>/\v^[<=>]{7}( .*\|$)<CR>
 " Map the arrow keys to be based on display lines, not physical lines
 map <Down> gj
 map <Up> gk
-map <Left> gh
-map <Right> gl
+" maybe I'll disable cover flow one day
+" map <Left> gh
+" map <Right> gl
 
 " Toggle hlsearch with <leader>hs
 nmap <leader>hs :set hlsearch! hlsearch?<CR>

@@ -56,7 +56,7 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'github/copilot.vim' " sigh
 Plug 'rbong/vim-flog'
 Plug 'sindrets/diffview.nvim'
-Plug 'itaranto/preview.nvim'
+Plug 'https://gitlab.com/itaranto/preview.nvim.git'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'huggingface/llm.nvim'
 
