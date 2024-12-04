@@ -1,4 +1,5 @@
 # NvPants
+<img width="1334" alt="Screenshot 2024-12-03 at 10 57 40 PM" src="https://github.com/user-attachments/assets/4611f61b-da85-4715-a149-93482b282947">
 
 # Fork Details
 - added [scnvim](https://github.com/davidgranstrom/scnvim): SuperCollider plugin + bindings
