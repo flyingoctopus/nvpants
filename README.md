@@ -1,4 +1,4 @@
-
+# NvPants
 <img width="1334" alt="Screenshot 2024-12-03 at 10 29 01 PM" src="https://github.com/user-attachments/assets/691f5a2c-a043-442d-9264-7f0e414bf655">
 
 
@@ -10,7 +10,7 @@
 - added [lsp-config](https://github.com/neovim/nvim-lspconfig): spoilers
 - added copilot. gross.
 
-# NvPlugged: NVim Distribution
+## From: NvPlugged: NVim Distribution
 
 Janus served me well for many years, but it's so damn slow today.
 
