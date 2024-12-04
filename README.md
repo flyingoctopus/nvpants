@@ -1,5 +1,14 @@
+
+<img width="1334" alt="Screenshot 2024-12-03 at 10 29 01 PM" src="https://github.com/user-attachments/assets/691f5a2c-a043-442d-9264-7f0e414bf655">
+
+
 # Fork Details
 - added [scnvim](https://github.com/davidgranstrom/scnvim): SuperCollider plugin + bindings
+- added [plenary](https://github.com/nvim-lua/pleanry.nvim):
+- added [llm-hf](https://github.com/huggingface/llm.nvim):
+- added [vim-flog](https://github.com/rbong/vim-flog):
+- added [lsp-config](https://github.com/neovim/nvim-lspconfig): spoilers
+- added copilot. gross.
 
 # NvPlugged: NVim Distribution
 
