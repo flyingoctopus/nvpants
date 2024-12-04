@@ -27,6 +27,6 @@ that makes this distro super fast.
 ## Copy/Paste easy install (OS X/Linux)
 
 ```sh
-git clone https://github.com/flyingoctopus/nvplugged.git ~/.config/nvim
+git clone https://github.com/flyingoctopus/nvpants.git ~/.config/nvim
 nvim +PlugInstall +qall
 ```
