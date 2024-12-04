@@ -13,6 +13,13 @@ let g:ctrlp_user_command = [
     '.build'
   ]
 
+let g:ctrlp_user_command = [
+    '.git',
+    'cd %s && git ls-files -c --exclude-standard --recurse-submodules | grep -x -v "$( git ls-files -d --exclude-standard )" ; git ls-files -o --exclude-standard', 'find %s -type f' ],
+    '.DS_Store',
+    '.build'
+  ]
+
 if has("gui_macvim") && has("gui_running")
   call janus#add_mapping('ctrlp', 'map', '<D-t>', ':CtrlP<CR>')
   call janus#add_mapping('ctrlp', 'imap', '<D-t>', '<ESC>:CtrlP<CR>')
