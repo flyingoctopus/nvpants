@@ -52,11 +52,18 @@ Plug 'morhetz/gruvbox'
 Plug 'vim-airline/vim-airline-themes'
 
 " Vincent
+Plug 'nvim-telescope/telescope.nvim'
+Plug 'nvim-telescope/telescope-project.nvim'
+Plug 'nvim-telescope/telescope-dap.nvim'
+Plug 'nvim-telescope/telescope-fzf-native.nvim'
+Plug 'nvim-telescope/telescope-media-files.nvim'
+Plug 'nvim-telescope/telescope-frecency.nvim'
+Plug 'nvim-telescope/telescope-fzf-writer.nvim'
+Plug 'nvim-telescope/telescope-fzf-sorter.nvim'
+Plug 'nvim-telescope/telescope-fzf-commands.nvim'
+Plug 'nvim-telescope/telescope-fzf-marks.nvim'
 " Plug 'neovim/nvim-lspconfig' " cool. brb when I'm ready
 " Plug 'github/copilot.vim' " sigh
-Plug 'rbong/vim-flog'
-Plug 'sindrets/diffview.nvim'
-Plug 'https://gitlab.com/itaranto/preview.nvim.git'
 Plug 'rbong/vim-flog'
 Plug 'sindrets/diffview.nvim'
 Plug 'https://gitlab.com/itaranto/preview.nvim.git'
