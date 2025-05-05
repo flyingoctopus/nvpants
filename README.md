@@ -10,6 +10,8 @@
 - added copilot. gross.
 
 ## From: NvPlugged: NVim Distribution
+### Fork Details
+- added [scnvim](https://github.com/davidgranstrom/scnvim): SuperCollider plugin + bindings
 
 Janus served me well for many years, but it's so damn slow today.
 
@@ -26,6 +28,12 @@ that makes this distro super fast.
 ## Copy/Paste easy install (OS X/Linux)
 
 ```sh
+<<<<<<< HEAD
 git clone https://github.com/flyingoctopus/nvpants.git ~/.config/nvim
+||||||| 0dcd0d7
+git clone https://github.com/brodock/nvplugged.git ~/.config/nvim
+=======
+git clone https://github.com/flyingoctopus/nvplugged.git ~/.config/nvim
+>>>>>>> dev
 nvim +PlugInstall +qall
 ```
