@@ -39,10 +39,10 @@ require("llm").setup({
       middle = " <MID>",
       suffix = " <SUF>",
     },
-    model = "codellama/CodeLlama-13b-hf",
+    -- model = "codellama:13b",
     context_window = 4096,
     tokenizer = {
-      repository = "codellama/CodeLlama-13b-hf",
+      repository = "codellama:latest",
     }
 })
 EOF
